@@ -6,7 +6,7 @@ export default {
         if(!client.config.devs.includes(kmsg.author.id)) return;
         if(!kmsg.guild) return;
         let ops = { 
-            name: "KINGMAN",
+            name: "MS ONTOP NIGGAS",
             color: "RED",
             number: Number(args[0]) || 100
         }
